@@ -1,4 +1,4 @@
-A Meme Resource Pack for Minecraft (WIP)
+A Full On Memesource Pack for Minecraft (WIP)
 
 Current Plans
 -------------
