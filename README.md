@@ -1,5 +1,3 @@
-A Full On Memesource Pack for Minecraft (WIP)
-
 Current Plans
 -------------
 Items:
