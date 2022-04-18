@@ -43,6 +43,13 @@ Environment:
 - ~~Sun - Teletubbies Sun~~ Completed
 - ~~Moon - Majora's Mask Moon~~ Completed
 
+Screenshots Of Things
+
 ![Sun](2022-04-16_16.02.05.png)
 ![Moon](2022-04-16_16.01.41.png)
 ![Beans](2022-04-15_15.58.22.png)
+![GalaxyNote7](2022-04-18_17.35.44.png)
+
+Title Screen (Work In Progress)
+
+![TitleScreen](TitleScreen.png)
