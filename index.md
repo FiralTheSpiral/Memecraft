@@ -43,6 +43,6 @@ Environment:
 - ~~Sun - Teletubbies Sun~~ Completed
 - ~~Moon - Majora's Mask Moon~~ Completed
 
-[Sun](2022-04-16_16.02.05.png)
-[Moon](2022-04-16_16.01.41.png)
-[Beans](2022-04-15_15.58.22.png)
+![Sun](2022-04-16_16.02.05.png)
+![Moon](2022-04-16_16.01.41.png)
+![Beans](2022-04-15_15.58.22.png)
