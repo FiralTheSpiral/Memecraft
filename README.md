@@ -1,24 +1,24 @@
 Current Plans
 -------------
 Items:
-- ~~TNT - Samsung Galaxy Note 7~~
+- ~~TNT - Samsung Galaxy Note 7~~ Completed
 - Flower Pot - Pot of Greed Card from Yu Gi Oh
 - Shield - Nokia Phone
-- ~~Emerald - Robux~~
+- ~~Emerald - Robux~~ Completed
 - Netherite - Obamium
 - Diamond Sword - Grip is made of diamonds and blade is made of sticks
 - Stone Sword - Baguette
 - Bow - Trombone
 - Arrow - Shootable Bone
-- ~~Gold Ingot - Cheese~~
+- ~~Gold Ingot - Cheese~~ Completed
 - Raw Gold - Aged Milk
 - Raw Gold Block - Cheese Block
-- ~~Copper Ingot - Bean-got~~
-- ~~Raw Copper - Beans~~
-- ~~Raw Copper Block - Bean Block~~
+- ~~Copper Ingot - Bean-got~~ Completed
+- ~~Raw Copper - Beans~~ Completed
+- ~~Raw Copper Block - Bean Block~~ Completed
 - Diamond Ore - Stone that shows diamond ore textures for a split second, then reverts to stone for a while
 - Diamond - Sprite Flipped Upside-down
-- ~~Golden Sword - Ganondorf Smash Attack Sword (SSBU)~~
+- ~~Golden Sword - Ganondorf Smash Attack Sword (SSBU)~~ Completed
 
 Mobs:
 - Baby Zombie - Demoman from TF2
@@ -38,5 +38,5 @@ Biomes:
 - Basalt Delta - Lenny Face Delta
 
 Environment:
-- ~~Sun - Teletubbies Sun~~
-- ~~Moon - Majora's Mask Moon~~
+- ~~Sun - Teletubbies Sun~~ Completed
+- ~~Moon - Majora's Mask Moon~~ Completed
