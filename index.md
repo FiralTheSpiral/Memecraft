@@ -44,6 +44,10 @@ Environment:
 - ~~Sun - Teletubbies Sun~~ Completed
 - ~~Moon - Majora's Mask Moon~~ Completed
 
+Videos Of Things
+
+https://medal.tv/games/minecraft/clips/EYU2AUqCf-XSr/d1337EnDLSxw?invite=cr-MSxaUG8sMjI1ODA0ODMs
+
 Screenshots Of Things
 
 ![Sun](2022-04-16_16.02.05.png)
