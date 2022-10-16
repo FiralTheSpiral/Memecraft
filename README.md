@@ -7,8 +7,9 @@ Items:
 - ~~Emerald - Robux~~ Completed
 - Netherite - Obamium
 - Diamond Sword - Grip is made of diamonds and blade is made of sticks
-- Stone Sword - Baguette
-- Bow - Trombone
+- ~~Diamond Pickaxe - Diamond Stickaxe~~ Completed
+- ~~Stone Sword - Baguette~~ Completed
+- ~~Bow - Trombone~~ Completed
 - Arrow - Shootable Bone
 - ~~Gold Ingot - Cheese~~ Completed
 - Raw Gold - Aged Milk
@@ -16,8 +17,8 @@ Items:
 - ~~Copper Ingot - Bean-got~~ Completed
 - ~~Raw Copper - Beans~~ Completed
 - ~~Raw Copper Block - Bean Block~~ Completed
-- Diamond Ore - Stone that shows diamond ore textures for a split second, then reverts to stone for a while
-- Diamond - Sprite Flipped Upside-down
+- Diamond Ore - Stone that shows diamond ore textures for a split second, then reverts to stone for a while **likely not possible with my skillset**
+- ~~Diamond - Sprite Flipped Upside-down~~ Completed
 - ~~Golden Sword - Ganondorf Smash Attack Sword (SSBU)~~ Completed
 
 Mobs:
