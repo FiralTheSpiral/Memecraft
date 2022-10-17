@@ -46,7 +46,7 @@ Environment:
 
 Videos Of Things
 
-![TromBOWne](https://medal.tv/games/minecraft/clips/EYU2AUqCf-XSr/d1337EnDLSxw?invite=cr-MSxaUG8sMjI1ODA0ODMs)
+[TromBOWne](https://medal.tv/games/minecraft/clips/EYU2AUqCf-XSr/d1337EnDLSxw?invite=cr-MSxaUG8sMjI1ODA0ODMs)
 
 Screenshots Of Things
 
