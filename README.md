@@ -2,7 +2,7 @@ Current Plans
 -------------
 Items:
 - ~~TNT - Samsung Galaxy Note 7~~ Completed
-- Flower Pot - Pot of Greed Card from Yu Gi Oh **likely not possible with my skillset**
+- ~~Flower Pot - Pot of Greed Card from Yu Gi Oh~~ Completed
 - Shield - Nokia Phone
 - ~~Emerald - Robux~~ Completed
 - Netherite - Obamium
